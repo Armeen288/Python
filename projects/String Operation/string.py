@@ -1,0 +1,5 @@
+print("Congratulations!")
+a = input("Enter The message: ")
+print(a)
+p = a.upper()
+print(p)
